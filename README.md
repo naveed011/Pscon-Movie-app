@@ -5,7 +5,7 @@ This project was bootstrapped with [ React Vite App](https://github.com/facebook
 First, Clone the repository
 
 ```bash
-git clone https://github.com/pscon/Pscon-Movie-App.git
+git clone https://github.com/naveed011/React-Movie-app.git
 ```
 
 Install all dependencies
@@ -116,7 +116,7 @@ npm run deploy
 
 ### Contact
 
-- Linkedin: [Ekunola Paul](https://www.linkedin.com/in/muhammad-naveed-b687a111b/)
+- Linkedin: [Muhammad Naveed](https://www.linkedin.com/in/muhammad-naveed-b687a111b/)
 - Email: [Email](mailto:786muhammadnaveed@gmail.com)
 
 ## Author
