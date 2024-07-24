@@ -112,7 +112,7 @@ npm run deploy
 
 ### Project Live link
 
-[React-Movix TMBD_CLONE](https://react-movie-app-zeta-six.vercel.app/)
+[React-Movix-TMBD-CLONE](https://react-movie-app-zeta-six.vercel.app/)
 
 ### Contact
 
@@ -121,4 +121,4 @@ npm run deploy
 
 ## Author
 
-- Ekunola Paul
+- Muhammad Naveed
