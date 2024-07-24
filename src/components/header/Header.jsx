@@ -75,7 +75,7 @@ const Header = () => {
       <ContentWrapper className="flex items-center justify-between">
         <div className="cursor-pointer " onClick={() => navigate("/")}>
           <h4 className="font-signature text-4xl ml-2 cursor-pointer text-secondary-pink font-bold">
-            Pscon-Movix
+            React-Movix
           </h4>{" "}
         </div>
         <ul className="menuItems hidden items-center md:flex">

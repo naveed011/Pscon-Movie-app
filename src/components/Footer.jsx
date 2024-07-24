@@ -37,29 +37,19 @@ const Footer = () => {
             <span className=" font-black text-secondary-pink text-lg hover:text-xl">
               {" "}
               <a
-                href="https://www.linkedin.com/in/ekunola-paul-42712b1aa"
+                href="https://www.linkedin.com/in/muhammad-naveed-b687a111b/"
                 target="_blank"
               >
-                PSCON{" "}
+                Naveed{" "}
               </a>{" "}
             </span>
           </p>
         </div>
         <div className="flex items-center justify-center gap-3 ">
-          <span className="w-[50px]">
-            <FaFacebookF />
-          </span>
-          <span className="w-[50px] h-[50px] rounded-full flex items-center justify-center cursor-pointer  transition-all ease duration-300 hover:text-secondary-pink">
-            <FaInstagram />
-          </span>
-          <span className="w-[50px] h-[50px] rounded-full flex items-center justify-center cursor-pointer transition-all ease duration-300 hover:text-secondary-pink">
-            <a href="https://twitter.com/PSCON3" target="_blank">
-              <FaTwitter />
-            </a>
-          </span>
+
           <span className="w-[50px] h-[50px] rounded-full flex items-center justify-center cursor-pointer transition-all ease duration-300 hover:text-secondary-pink">
             <a
-              href="https://www.linkedin.com/in/ekunola-paul-42712b1aa"
+              href="https://www.linkedin.com/in/muhammad-naveed-b687a111b/"
               target="_blank"
             >
               <FaLinkedin />
