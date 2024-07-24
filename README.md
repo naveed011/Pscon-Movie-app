@@ -112,12 +112,12 @@ npm run deploy
 
 ### Project Live link
 
-[Pscon-Movix](https://pscon-movie-app.vercel.app/)
+[React-Movix TMBD_CLONE](https://react-movie-app-zeta-six.vercel.app/)
 
 ### Contact
 
-- Linkedin: [Ekunola Paul](https://www.linkedin.com/in/ekunola-paul-42712b1aa/)
-- Email: [Email](mailto:ekunolapaul@gmail.com)
+- Linkedin: [Ekunola Paul](https://www.linkedin.com/in/muhammad-naveed-b687a111b/)
+- Email: [Email](mailto:786muhammadnaveed@gmail.com)
 
 ## Author
 
